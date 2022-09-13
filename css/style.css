@@ -1,0 +1,17 @@
+body {
+	background-color: lightblue;
+}
+
+@font-face {
+    font-family: "DS-Digital";
+    src: url("../digital_clock_javascript_version1/DS-DIGIT.TTF") format('truetype');
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+p {
+	font-family: verdana;
+	font-size: 20px;
+}

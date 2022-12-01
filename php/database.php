@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "Redes";
 $password = "";
-$dbname = "";
+$dbname = "Query1";
 
 $name = $_POST["name"]; 
 $mail = $_POST["email"];
